@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client";
+
 let heading1 = React.createElement(
     "h1",
     {
